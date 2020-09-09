@@ -1,11 +1,10 @@
-<img src=http://u.cubeupload.com/Owyn/ItemHelper.jpg>
 
 # AA-Guide
 
-SCRIPT BY OWYN - For TERA
-Credits to teralove and soler91 and SHINOYX for their guides
+SCRIPT BY Yasuki - For TERA
+Credits to teralove and soler91, SHINOYX and Owyn for their guides
 
-Call out attacks from Antaroth Abyss last boss including both NORMAL MODE & HARD MODE & 7-MAN MODE
+Call out attacks from Antaroth Abyss last boss including both NORMAL MODE & HARD MODE
 
 *Script automatically detects bosses and which dungeon hard or normal.
 
