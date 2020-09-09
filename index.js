@@ -24,7 +24,7 @@ module.exports = function antaroth_guide(dispatch) {
 		itemhelper = true,
 		insidemap = false,
 	   	streamenabled = false;
-		
+	/*	
 	if(dispatch.region == "ru")
 	{
 		for (let prop in ThirdBossActions)
@@ -36,7 +36,7 @@ module.exports = function antaroth_guide(dispatch) {
 			ThirdBossTwoUp[prop].msg = ThirdBossTwoUp[prop].msg_ru;
 		}
 	}
-	
+	*/
 	dispatch.hook('S_LOAD_TOPO', 3, (event) => {
 		if (event.zone === mapID[0]) 
 		{								
