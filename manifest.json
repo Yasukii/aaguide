@@ -1,0 +1,18 @@
+{
+    "files": {
+        "README.md": "82bbe859f30b29b1528f7337a0fe757a20cc7809f5c38b2dd76907ab8122d880",
+        "index.js": "ed9c7a2dbd73d3240590aae655168777afc125d3fd8f73d01134d5835aec662f",
+        "module.json": "d47bf32edc6b6e708c36b2be1a66d93819de69a94c0b92d98183ec02076c80be"
+    },
+    "defs": {
+        "C_CHAT": 1,
+        "S_ACTION_STAGE": 9,
+        "S_CHAT": 3,
+        "S_CREATURE_ROTATE": 2,
+        "S_DESPAWN_BUILD_OBJECT": 2,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_LOAD_TOPO": 3,
+        "S_SPAWN_BUILD_OBJECT": 2,
+        "S_SPAWN_DROPITEM": 9
+    }
+}
